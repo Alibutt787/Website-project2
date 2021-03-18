@@ -1,0 +1,17 @@
+:root{
+    --text:black;
+    --border_circle1:rgb(253, 17, 9);
+    --border_circle2:rgb(208, 241, 20);
+    --border_circle3:rgb(3, 175, 255);
+--border_box1:rgb(11, 11, 12);
+--background:rgb(56, 54, 54);
+ --body_background:rgba(31, 28, 28, 0.64);
+ --what_i_do_shadow_color:rgba(12, 11, 11, 0.64);
+--btn_link:rgb(228, 226, 226);
+--bt_link_hover:rgb(197, 193, 193);
+--link_color: rgb(11, 12, 12);
+--form_bg:rgb(75, 73, 73);
+
+--form_bg_input:rgb(36, 35, 35);
+--what_border_box:rgb(24, 22, 22);
+}
