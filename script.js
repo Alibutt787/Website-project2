@@ -4,6 +4,7 @@ var theme2 =document.getElementById("theme2");
 var theme3 =document.getElementById("theme3");
 var theme4 =document.getElementById("theme4");
 
+document.getElementById('theme_style').href='style.css';
 theme1.addEventListener('click' ,()=>{
     document.getElementById('theme_style').href='white.css';
 });
